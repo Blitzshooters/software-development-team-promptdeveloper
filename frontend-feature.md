@@ -11,7 +11,7 @@ Frontend Developer bertanggung jawab atas pengembangan antarmuka pengguna (User 
 ## Kontribusi
 
 1. **Perancangan Tampilan Antarmuka**  
-   Mendesain dan mengimplementasikan tampilan halaman aplikasi menggunakan teknologi seperti HTML, CSS, dan JavaScript agar terlihat menarik serta mudah digunakan oleh pengguna.
+   Mendesain dan mengimplementasikan tampilan halaman aplikasi menggunakan bahasa pemrograman seperti HTML, CSS, dan JavaScript agar terlihat menarik serta mudah digunakan oleh pengguna.
 
 2. **Pengembangan Komponen Frontend**  
    Mengembangkan komponen tampilan yang interaktif dan dinamis menggunakan framework atau library seperti Bootstrap dan Tailwind CSS.
